@@ -1,0 +1,17 @@
+{
+    "student_profile": {
+        "name": "Kay Pee",
+        "age": 21,
+        "enrolled":true,
+        "middlename": null,
+        "courses": [
+            "CTE412",
+            "MAT205",
+            "DIS404"
+        ],
+
+        "department": ["Computer Science"]
+    }
+}
+
+

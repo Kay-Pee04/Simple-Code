@@ -1,0 +1,31 @@
+{
+    "title": "Simple Codes",
+    "aurhor": "Sonam Yangchen",
+    "year": 2016,
+    "inStock": true,
+    "genre": [
+        "Fiction",
+        "Non-Fiction"
+    ],
+
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925,
+            "inStock": true,
+            "genre": "Fiction"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960,
+            "inStock": false,
+            "genre": "Non-Fiction"
+        }
+    ]
+}
+
+
+
+
